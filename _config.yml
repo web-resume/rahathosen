@@ -1,16 +1,16 @@
-title: Tahanima Chowdhury
-description: Software Engineer, QA @ Therap (BD) Ltd.
-baseurl: "/remple/"
+title: Rahat Hosen
+description: Full Stack Developer
+baseurl: "/rahathosen/"
 url: ""
 photo_url: "my-photo.jpg"
 
 # This is an optional section
 # You can skip filling in one or more of the items in this section
 email: "tahanimachowdhury@gmail.com"
-linkedin: "http://linkedin.com/in/tahanima-chowdhury"
-github: "https://github.com/Tahanima"
-website: "http://tahanima.github.io/"
-medium: "https://tahanima.medium.com/"
+linkedin: "http://linkedin.com/in/rahathosen"
+github: "https://github.com/rahathosen"
+website: "http://rahathosen.github.io/"
+medium: "https://rahathosen.medium.com/"
 
 markdown: kramdown
 theme: minima
