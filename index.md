@@ -2,71 +2,44 @@
 layout: default
 title: Resume
 ---
-
----
-## EXPERIENCE
 ---
 
-### Therap (BD) Ltd.  
-***Software Engineer, QA (Oct 2019 - Present)*** &middot;	***Full-time***   
-
-* Has been the primary QA personnel responsible for a number of re-designed modules of my team
-* Has assisted an external team at Therap for one of their re-designed modules 
-* Find scopes of test automation and prepare test automation scripts using Selenium WebDriver (Java)
-* Guide new QA members in the team
-
-***Associate Software Engineer, QA (Sep 2018 – Sep 2019)*** &middot;	***Full-time*** 
-* Perform exploratory testing and, document and report bugs for each assigned new
-features/improvement of existing features/bug fixes targeting a release
-* Carry out regression testing prior to each release
-* Document functionalities of new and existing modules of my team
-* Collaborate with Software Developers to work on new features, improvement of existing features and bug fixes
-* Collaborate with Database Engineers to work on custom reports
-* Collaborate with Training & Content Specialists to work on release notes
-
-### HackerRank  
-***Challenge Creator (Sep 2018 – Sep 2019)*** &middot;	***Remote***
-* Created challenges for the contests: *Women's CodeSprint 3*, *Women's CodeSprint 4*, *Women's CodeSprint 5* and *RookieRank 4 in HackerRank for Developers*
-* Created challenges for technical recruiting in HackerRank for Work
-
-
-
-<br />
-
+## Career Objectives:
 ---
-## EDUCATION
----
-### BUBT University  
-*Bachelor of Science in Computer Science (Jan 2013 - Aug 2017)*  
-CGPA: **3.71** (out of **4.00**) 
+To obtain a challenging position for a good career where a strong sense of responsibility and commitment is required, which could enable me to develop my skill and enrich my creativity. My aim is to build an emphatic career as a Full Stack Software Engineer where I can explore plenty of options in this sector which will make me a worthy professional resource. <br><br>
 
-
-<br />
-
----
-## HONORS & ACHIEVEMENTS
----
-* Open Source Project Maintainer at [LightOJ](https://github.com/lightoj-dev/problem-tutorials)
-* One of the local winners of [Open Source Immersion 2020](https://www.facebook.com/groups/DevCDhaka/permalink/2035223959941407), Facebook Developer Circle: Dhaka
-* One of the 1,000 eligible participants to receive a limited edition swag giveaway from Facebook for Developers as part of [Open Source Immersion](https://developers.facebook.com/developercircles/open-source-immersion/)
-* Champion, 1<sup>st</sup> position in Dhaka division, and 1<sup>st</sup> solver of problem D (Team - Bracu_Codefairies) at [NSU Inter University Girl's Programming Competition 2018](https://toph.co/c/nsu-iugpc-2018/standings)
-* 23<sup>rd</sup> position (Team - BRACU StrawHats) at [The 2016 ACM-ICPC Asia Dhaka Regional Contest](https://icpc.global/regionals/finder/dhaka-2016/standings)
-* Recipient of Merit Based Scholarship at BRAC University
-* Recipient of [Special Recognition Award](https://drive.google.com/file/d/1uwpreJ1ekZWLFdA4lARyEnJOQTP_q6Rv/view) from Vice Chancellor, BRAC University
-
-<br />
 
 ---
 ## PROJECT
 ---
-* **[Test Automation Boilerplate](https://github.com/Tahanima/test-automation-boilerplate):** Ready to use UI Test Automation Architecture  
-**Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, AssertJ, EventReports, JavaFaker, Git 
+* **[Selenium](https://github.com/rahathosen/Selenium_Using_Python):** Almost all functionalities of Selenium like –Dropdown, Input box, radio button, Headless browser and others.
+* **[Basic Unit Testing](https://github.com/rahathosen/unittest_html_report_generation):**Basic Unit Testing using Python and Generate HTML Report. Verify the Title and Login functionality.
+* **[Data Driven Testing](https://github.com/rahathosen/data_driven_test):**Read Username and Password from Excel and use this data for login a specific URL. If login success then write Passed in excel otherwise write Failed in excel.
+* **[Behavior Driven Development](https://github.com/rahathosen/Behaviour_Driven_Development):**Behave is one of the most popular python BDD framework similar to Cucumber and here I tried some basic BDD work in this project.
 
 <br />
-  
+
+
 ---
-## SKILLS  
+## Skills:
 ---
-* **Languages:** C#, C++, Ruby, SQL
-* **Framework:** ASP .Net Core
-* **Tools** &#124; **Technologies:** Selenium WebDriver, Gradle, TestNG, Jekyll, Git, JIRA
+<br>
+***Programming Language:*** Experience in C# and Javascript: Object-Oriented Programming.<br><br>
+***Framework:*** ASP dotnet core, EntityFramework, Angular.<br><b
+***Software Testing:*** Working knowledge about SDLC and STLC process. Manual Testing, Unit, Integration, System, Acceptance, Regression, Functional, Non-Functional, Knowledge about different Black Box testing techniques like – Boundary Value Analysis, Equivalence Partitioning, State Transition. Knowledge about V-Model, Waterfall, Agile Model and SCRUM. <br><br>
+***API Testing:*** API Testing using Postman and Swagger.<br><br>
+***Android App Testing:*** Manual testing of Android Application in Real Devices and Android Studio.<br><br>
+***Database & Web:*** Knowledge about SQL Operation. Experience in HTML-5, CSS-3, Bootstrap, Responsive Design.<br><br>
+
+---
+## Education
+---
+<br>
+### Bangladesh University of Business and Technology (BUBT)
+*Bachelor of Science in Computer Science & Engineering | 2018 - 2022*  
+
+
+### Tangail Polytechnic Institute
+*Computer Science | 2013 - 2017*  
+
+<br />
